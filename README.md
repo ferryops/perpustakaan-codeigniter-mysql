@@ -35,7 +35,11 @@ cp env .env
 ```
 
 5. Buat database baru di MySQL
+
+```bash
    Dump database tersedia di app/Database/Dump/dump-library_stmik_palangkaraya-202501012333.sql
+```
+
 6. Konfigurasi database di file .env
 
 ```bash
