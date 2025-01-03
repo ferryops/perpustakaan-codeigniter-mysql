@@ -7,6 +7,7 @@
 - Manajemen Peminjaman
 - Manajemen Admin
 - Dashboard Statistik
+- Download Laporan Peminjaman ke PDF
 
 ## Instalasi
 
@@ -60,4 +61,16 @@ php spark serve
 ## Screenshot
 
 <img width="1280" alt="Login Admin" src="https://github.com/user-attachments/assets/608fa0b5-6a15-4ab0-9ef2-91a749482f98" />
+
+<img width="1280" alt="Daftar Transaksi" src="https://github.com/user-attachments/assets/1541464d-7dda-431a-a1b6-1f2294604460" />
+
+<img width="1280" alt="Daftar Buku" src="https://github.com/user-attachments/assets/587e7ce4-6a00-45ac-ad8f-f8b24db7f41a" />
+
+<img width="1280" alt="Daftar Anggota" src="https://github.com/user-attachments/assets/5f9919ad-056b-4997-b283-02c854113a6d" />
+
+<img width="1280" alt="Dashboard Statistik" src="https://github.com/user-attachments/assets/7d58fdab-dc28-4ac4-a984-2d6bfe7d53a7" />
+
+
+
+
 
